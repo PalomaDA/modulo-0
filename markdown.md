@@ -37,4 +37,4 @@ Para insertar tablas puede se puede utilizar la siguiente [página](https://www.
 ```python
 print("Eres la puta ama")
 ```
-Actualizar tecto en markdown
+Actualizar texto en markdown
